@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jfluckiger\\source\\repos\\Drive2App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8878E765-0D8C-4A7B-A31B-BB39B501393B}|Drive2\\Drive2.csproj|c:\\users\\jfluckiger\\source\\repos\\drive2app\\drive2\\render.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8878E765-0D8C-4A7B-A31B-BB39B501393B}|Drive2\\Drive2.csproj|solutionrelative:drive2\\render.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 494,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Render.cs",
+              "DocumentMoniker": "C:\\Users\\jfluckiger\\source\\repos\\Drive2App\\Drive2\\Render.cs",
+              "RelativeDocumentMoniker": "Drive2\\Render.cs",
+              "ToolTip": "C:\\Users\\jfluckiger\\source\\repos\\Drive2App\\Drive2\\Render.cs",
+              "RelativeToolTip": "Drive2\\Render.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEMAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T19:15:08.51Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

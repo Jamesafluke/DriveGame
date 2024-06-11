@@ -1,0 +1,14 @@
+C:\Users\jfluckiger\source\repos\Drive2App\Drive2\bin\Debug\net8.0\Drive2.exe
+C:\Users\jfluckiger\source\repos\Drive2App\Drive2\bin\Debug\net8.0\Drive2.deps.json
+C:\Users\jfluckiger\source\repos\Drive2App\Drive2\bin\Debug\net8.0\Drive2.runtimeconfig.json
+C:\Users\jfluckiger\source\repos\Drive2App\Drive2\bin\Debug\net8.0\Drive2.dll
+C:\Users\jfluckiger\source\repos\Drive2App\Drive2\bin\Debug\net8.0\Drive2.pdb
+C:\Users\jfluckiger\source\repos\Drive2App\Drive2\obj\Debug\net8.0\Drive2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jfluckiger\source\repos\Drive2App\Drive2\obj\Debug\net8.0\Drive2.AssemblyInfoInputs.cache
+C:\Users\jfluckiger\source\repos\Drive2App\Drive2\obj\Debug\net8.0\Drive2.AssemblyInfo.cs
+C:\Users\jfluckiger\source\repos\Drive2App\Drive2\obj\Debug\net8.0\Drive2.csproj.CoreCompileInputs.cache
+C:\Users\jfluckiger\source\repos\Drive2App\Drive2\obj\Debug\net8.0\Drive2.dll
+C:\Users\jfluckiger\source\repos\Drive2App\Drive2\obj\Debug\net8.0\refint\Drive2.dll
+C:\Users\jfluckiger\source\repos\Drive2App\Drive2\obj\Debug\net8.0\Drive2.pdb
+C:\Users\jfluckiger\source\repos\Drive2App\Drive2\obj\Debug\net8.0\Drive2.genruntimeconfig.cache
+C:\Users\jfluckiger\source\repos\Drive2App\Drive2\obj\Debug\net8.0\ref\Drive2.dll
